@@ -16,7 +16,7 @@
               </div>
               <div class="hidden lg:flex" >
                   <nuxt-link to="/contact">
-                      <div class=" bg-darkYellow  text-white py-3 px-6 rounded-3xl flex items-center gap-3 ">
+                      <div class=" bg-primary  text-white py-3 px-6 rounded-3xl flex items-center gap-3 ">
                           <span>Book an appointment</span>
                           <i class="pi pi-arrow-right text-xs"></i>
                       </div>
@@ -80,7 +80,7 @@
         color: black !important;
     }
     .router-link-exact-active{
-        color:#d19c08;  
+        color:#00662A; 
     }
 
 </style>

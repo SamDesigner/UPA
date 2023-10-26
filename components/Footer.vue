@@ -1,5 +1,5 @@
 <template>
-    <footer class="px-2 py-5 md:px-6  md:py-8 mt-5 bg-black text-white space-y-6 text-xs" >
+    <footer class="px-2 py-5 md:px-6  md:py-8 mt-5 bg-primary text-white space-y-6 text-xs" >
         <div class=" grid grid-cols-2 gap-[25px]  md:grid-cols-3 lg:grid-cols-5 lg:gap-4">
             <div class="space-y-5">
                 <h3 class="text-xl font-bold">Product</h3>
