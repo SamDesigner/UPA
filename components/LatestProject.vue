@@ -3,10 +3,10 @@
             <div class="max-w-[1440px] mx-auto space-y-4 md:space-y-0 grid grid-cols-1 md:grid-cols-2 items-center">
                 <div class="flex flex-col gap-[12px]">
                     <h3 class="text-primary">Innovation, Quality and Continous Improvement</h3>
-                    <h1 class="text-darkYellow text-[28px] lg:text-[45px] font-[600px]">Latest Project, Solutions And Energy Supplies</h1>
+                    <h1 class=" text-[28px] lg:text-[45px] font-[600px]">Latest Project, Solutions And Energy Supplies</h1>
                 </div>
                 <div class="flex flex-col gap-[16px]">
-                    <p class="text-gray-500 text-[16px] md:text-[18px] leading-[28px] text-darkYellow">Our sales offices and warehouses include PV industry experience enables us to provide in-depth material sourcing and supply chain expertise for every production & installation process.</p>
+                    <p class="text-gray-700 text-[16px] md:text-[18px] leading-[28px] ">Our sales offices and warehouses include PV industry experience enables us to provide in-depth material sourcing and supply chain expertise for every production & installation process.</p>
                     <button class="bg-primary text-white w-fit py-[20px] px-[25px]">Explore All Projects <span><i class="pi pi-arrow-right"></i></span></button>
                 </div>
             </div>
