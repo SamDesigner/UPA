@@ -1,5 +1,19 @@
 <template>
     <div class=w-full>
+        <div class=" hidden h-[100vh] z_index fixed bg-white w-full flex items-center">
+            <div class="absolute top-4 right-3">
+                <span><i class="text-primary text-3xl pi pi-times"></i></span>
+            </div>
+            <div class="flex justify-center items-center">
+                <div class="flex flex-col  justify-center w-full items-center  ">
+                  <nuxt-link to="/">Home</nuxt-link>
+                  <nuxt-link to="/about">About us</nuxt-link>
+                  <nuxt-link to="/services">Services</nuxt-link>
+                  
+                  <nuxt-link to="/contact">Contact us</nuxt-link>
+              </div>
+            </div>
+        </div>
         <div class="navbar px-[16px] md:px-0  py-[10px] w-auto mx-auto   " :class="{ 'opaque': isNavbarOpaque }">
           
           <nav class=" mx-auto max-w-[1440px] md:px-[20px] lg:px-[80px] flex justify-between items-center ">
@@ -84,7 +98,7 @@
     .router-link-exact-active{
         color:#7BAE35; 
     }
-    dev{
-        coloe:
-    }
+   .z_index{
+    z-index:2000;
+   }
 </style>

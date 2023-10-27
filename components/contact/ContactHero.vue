@@ -48,7 +48,7 @@
                     <div class="w-full grid grid-cols-1 md:hidden gap-[40px] ">
                             <div class="px-[24px] h-[280px]  rounded-[8px] py-[16px] bg-white flex flex-col gap-[40px]">
                                 <div>
-                                    <img src="/svg/chaticon.svg" />
+                               
                                 </div>
                                 <div>
                                     <h3 class="text-[16px] leading-[32px] font-[600] text-darkGreen">Email</h3>
@@ -59,7 +59,7 @@
                             </div>
                             <div class="px-[24px] h-[280px]  rounded-[8px] py-[16px] bg-white flex flex-col gap-[40px]">
                                 <div>
-                                    <img src="/svg/phone_icon.svg" />
+                                    
                                 </div>
                                 <div>
                                     <h3 class="text-[16px] leading-[32px] font-[600] text-darkGreen">Telephone</h3>
@@ -70,7 +70,7 @@
                             </div>
                             <div class="px-[24px] h-[280px]  rounded-[8px] py-[16px] bg-white flex flex-col gap-[40px]">
                                 <div>
-                                    <img src="/svg/location_icon.svg" />
+                             
                                 </div>
                                 <div>
                                     <h3 class="text-[16px] leading-[32px] font-[600] text-darkGreen">Address</h3>
