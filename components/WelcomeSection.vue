@@ -15,7 +15,7 @@
             data-aos-offset="300"
             data-aos-duration="1500"
             class="h-[280px] md:h-[600px] w-full overflow-hidden rounded-3xl bg_custom">
-                
+                <img class="object_fit" src="/img/solarhandshake.jpg " />
             </div>
 
         </div>
@@ -23,11 +23,11 @@
 </template>
 
 <style scoped>
-    .bg_custom{
+    /* .bg_custom{
         background: url(' /img/solarhandshake.jpg ');
         background-position: center; 
         background-size: cover;
-    }
+    } */
     .object_fit{
         object-fit: cover;
     }
