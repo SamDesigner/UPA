@@ -1,6 +1,6 @@
 <template>
     <div class=w-full>
-        <div class="navbar px-[16px] md:px-0  py-[10px] w-auto mx-auto shadow-lg   " :class="{ 'opaque': isNavbarOpaque }">
+        <div class="navbar px-[16px] md:px-0  py-[10px] w-auto mx-auto   " :class="{ 'opaque': isNavbarOpaque }">
           
           <nav class=" mx-auto max-w-[1440px] md:px-[20px] lg:px-[80px] flex justify-between items-center ">
               <nuxt-link to="/"  >
@@ -11,7 +11,7 @@
                   <nuxt-link to="/">Home</nuxt-link>
                   <nuxt-link to="/about">About us</nuxt-link>
                   <nuxt-link to="/services">Services</nuxt-link>
-                  <nuxt-link to="/candidates">Candidates</nuxt-link>
+                  
                   <nuxt-link to="/contact">Contact us</nuxt-link>
               </div>
               <div class="hidden lg:flex" >
@@ -74,13 +74,17 @@
         transition: background 0.3s ease; /* Add a smooth transition effect */
         z-index: 1000;
         color: white !important;
+        
      }
      .opaque {
         background: white; /* Change the background color to white */
         color: black !important;
+        box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.3);
     }
     .router-link-exact-active{
-        color:#00662A; 
+        color:#7BAE35; 
     }
-
+    dev{
+        coloe:
+    }
 </style>

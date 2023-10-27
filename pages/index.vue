@@ -2,9 +2,9 @@
   <div>
     <Header />
     <Carousel />
-    <WelcomeSection />
-    <Services />
-    <LatestProject />
+    <WelcomeSection class='overflow-hidden' />
+    <Services class='overflow-hidden' />
+    <LatestProject class="overflow-hidden" />
     <Globe />
     <Partners />
     <Footer />
