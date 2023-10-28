@@ -1,6 +1,6 @@
 <template>
     <div class="bg-secondary flex justify-center items-center lg:px-[80px] px-[16px] ">
-    <div class=" pb-[40px] pt-[80px] md:pb-[80px] md:pt-[160px] w-[1280px]     ">
+    <div class=" pb-[40px] md:pb-[80px] pt-[160px] w-[1280px]     ">
         <div class="w-full ">
                 <div class="flex flex-col justify-center items-center gap-[40px]">
                     <div class="gap-[4px]">

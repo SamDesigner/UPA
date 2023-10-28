@@ -16,7 +16,7 @@
                         <div>
                             <h1 class="text-darkGreen leading-[36px] md:leading-[48px] text-[20px] md:text-[32px] font-[600]">Let us give you a call</h1>
                             <p class="text-[16px] leading-[28px] font-[400] text-darkGreen">
-                                Send us your details in the form below and a member of our team will call you as soon as possible. If you’d like to speak to us straight away, call <span class="text-primary">03300432599, 07459304221.</span> We’re available seven days a week.
+                                Send us your details in the form below and a member of our team will call you as soon as possible. If you’d like to speak to us straight away, call <span class="text-primary">+234 80033471271. 09-2904317</span> We’re available seven days a week.
                             </p>
                         </div>
                         <div class="flex gap-[32px]">
