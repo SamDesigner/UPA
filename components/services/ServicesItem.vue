@@ -3,9 +3,10 @@
         <div class="pt-[40px] md:pt-[80px] md:pl-[60px] lg:pl-[80px]">
             <div class="grid grid-cols-1 md:grid-cols-2 items-center gap-4   ">
                 <div class="text-darkGreen flex flex-col lg:w-[576px] gap-[32px] md:gap-[15px] lg:gap-[32px] px-[16px] md:px-[0px]">
-                    <h1 class="text-[20px] lg:text-[32px] font-[600] leading-[36px] md:leading-[48px]">Personal Care</h1>
+                    <h1 class="text-[20px] lg:text-[32px] font-[600] leading-[36px] md:leading-[48px]">Solutions</h1>
                     <p class="text-[16px] leading-[28px]">
-                        Our professional and compassionate staff members work closely with our clients to understand their unique needs and preferences, and create a personalised care plan that meets their needs.
+                       UPA Energy Limited is a visionart energy solutions provider born from the genius of Esv. Uche Peters. Established with a clear mission to revolutionize
+                       the energy landscape in Nigeria.
                     </p>
                     <div 
                     data-aos="flip-up"
@@ -16,8 +17,9 @@
                             <div>
                                 <img src="/svg/1.svg" />
                             </div>
+                            <h1 class="text-lg">Waste-to-Energy</h1>
                             <p class="leading-[28px] text-[16px] font-[400]">
-                                We take the time to understand your individual needs. Our professional and compassionate staff will ensure you receive the care that's just right for you.
+                               Through cutting-edge texhnology, we harness the untapped potential of waste to generate clean and renewable energy, addressing both environmental and energy challenges 
                             </p>
                         </div>
                         <!-- <div 
@@ -55,8 +57,11 @@
                 </div>
 
 
-                <div class="order-1 md:order-2 text-darkGreen flex flex-col lg:w-[576px] gap-[32px] md:gap-[15px] lg:gap-[32px] px-[16px] md:px-[0px]">
-                    <h1 class="text-[20px] lg:text-[32px] font-[600] leading-[36px] md:leading-[48px]">Social Care</h1>
+                <div 
+                data-aos="fade-left"
+                data-aos-duration="3000"
+                class="order-1 md:order-2 text-darkGreen flex flex-col lg:w-[576px] gap-[32px] md:gap-[15px] lg:gap-[32px] px-[16px] md:px-[0px]">
+                    <h1 class="text-[20px] lg:text-[32px] font-[600] leading-[36px] md:leading-[48px]">Solar Power and Energy Storage</h1>
                     <p class="text-[16px] leading-[28px]">
                         We understand that social care is an essential aspect of maintaining a healthy and fulfilling life and aim to ensure that everyone has access to services that meet their unique needs.
                     </p>
@@ -67,8 +72,9 @@
                             <div>
                                 <img src="/svg/1.svg" />
                             </div>
+                            <h1 class="text-lg">Solar Power</h1>
                             <p class="leading-[28px] text-[16px] font-[400]">
-                                We are committed to providing inclusive social care services that meet the unique needs and preferences of all individuals.
+                                We offer solar solutions, an investment of 25years that brings reliable electricity to homes, businesses, and communities, reducing dependence on unreliable grid power
                             </p>
                         </div>
                         <div 
@@ -77,8 +83,9 @@
                             <div>
                                 <img src="/svg/2.svg" />
                             </div>
+                            <h1 class="text-lg">Energy Storage</h1>
                             <p class="leading-[28px] text-[16px] font-[400]">
-                                We tailor our social care to each client's unique needs, creating meaningful and enjoyable activities that enhance their quality of life.
+                                UPA Energy provides state-of-the-art energy storage solutions to ensure uninterrupted power supply, even in remote areas.
                             </p>
                         </div>
                     </div>
@@ -90,9 +97,11 @@
         <div class="pt-[40px] md:pt-[80px] md:pl-[60px] lg:pl-[80px]">
             <div class="grid grid-cols-1 md:grid-cols-2 items-center gap-4   ">
                 <div class="text-darkGreen flex flex-col lg:w-[576px] gap-[32px] md:gap-[15px] lg:gap-[32px] px-[16px] md:px-[0px]">
-                    <h1 class="text-[20px] lg:text-[32px] font-[600] leading-[36px] md:leading-[48px]">Domestic Care</h1>
+                    <h1 class="text-[20px] lg:text-[32px] font-[600] leading-[36px] md:leading-[48px]">Our Impact</h1>
                     <p class="text-[16px] leading-[28px]">
-                        We offer regular cleaning and maintenance, laundry services, shopping, meal preparation and companionship. 
+                        UPA Energy Limited is committed to making a significant difference in Nigeria's energy landscape.
+                        By solving energy problems, we empower businesses, improve living standards, and contribute to sustainable development. We are proud
+                        to be part of a solution that strengthens the nation's economy and quality of life.
                     </p>
                     <!-- <div class="flex flex-col gap-[24px] pl-4">
                         <div 

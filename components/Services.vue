@@ -7,9 +7,9 @@
                 data-aos-offset="300"
                 data-aos-duration="1500"
                 class="w-[740px]">
-                    <h4 class="text-primary text-[16px] md:text-[18px] leading-[26px] text-center ">What We Do</h4>
-                    <h1 class="text-[20px] md:text-[32px] font-[600] leading-[48px] font-[32px] text-center ">Energy Supply Across All Nations</h1>
-                    <p class=" text-center text-gray-700">We provide customized care plans tailored to your unique needs, ensuring you receive the specific support required to maintain your independence and well-being.</p>
+                    <h4 class="text-primary text-[16px] md:text-[18px] leading-[26px] text-center ">Why Choose Us?</h4>
+                    <h1 class="text-[20px] md:text-[32px] font-[600] leading-[48px] font-[32px] text-center text_spacing ">Our Impact</h1>
+                    <p class=" text-center text-gray-700">We empower businesses, improve living standards and contribute to sustainable development.We are proud to be a part of a solution that strengthens the nation's economy and quality of life.</p>
                 </div>
             </div>
             <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-[16px]">
@@ -22,8 +22,8 @@
                     <div class="flex items-center w-fit px-5 rounded-xl py-4 text-darkYellow bg-grayBg">
                         <span ><i class="pi pi-bolt"></i></span>    
                     </div>
-                    <h3 class="text-[16px] font-[600] leading-[32px]  ">Power 24*7</h3>   
-                    <p class="text-[16px] font-[400] leading-[28px]  text-gray-700">We provide carers to stay with you 24/7 to give you complete peace of mind.</p>
+                    <h3 class="text-[16px] font-[600] leading-[32px]  ">Innovation</h3>   
+                    <p class="text-[16px] font-[400] leading-[28px]  text-gray-700">Our solutions are at the forefront of technology, ensuring efficiency and sustainability.</p>
                 </div>
                 <div 
                 data-aos="fade-down"
@@ -34,8 +34,8 @@
                     <div class="flex items-center w-fit px-5 rounded-xl py-4 text-darkYellow bg-grayBg">
                         <span ><i class="pi pi-id-card"></i></span>    
                     </div>
-                    <h3 class="text-[16px] font-[600] leading-[32px]  ">Trained Professionals</h3>   
-                    <p class="text-[16px] font-[400] leading-[28px]  text-gray-700">We have a professional, friendly, well trained, competent care teams who are passionate about what they do.</p>
+                    <h3 class="text-[16px] font-[600] leading-[32px]  ">Local Expertise</h3>   
+                    <p class="text-[16px] font-[400] leading-[28px]  text-gray-700">We understand the unique energy challenges in Nigeria and tailor our solutions accordingly.</p>
                 </div>
                 <div 
                 data-aos="fade-down"
@@ -46,11 +46,17 @@
                     <div class="flex items-center w-fit px-5 rounded-xl py-4 text-darkYellow bg-grayBg">
                         <span ><i class="pi pi-check"></i></span>    
                     </div>
-                    <h3 class="text-[16px] font-[600] leading-[32px]  ">Background Checked</h3>   
-                    <p class="text-[16px] font-[400] leading-[28px] text-gray-700">They are fully insured, have been reference checked, and police checked via the Disclosure and Barring Service.</p>
+                    <h3 class="text-[16px] font-[600] leading-[32px]  ">Reliability</h3>   
+                    <p class="text-[16px] font-[400] leading-[28px] text-gray-700">Upa Energy is synonymous with dependable and uninterrupted power supply.</p>
                 </div>
             </div>
            
         </div>
     </div>
 </template>
+
+<style  scoped>
+    .text_spacing{
+        letter-spacing: 5px;
+    }
+</style>>

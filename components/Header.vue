@@ -1,11 +1,15 @@
 <template>
     <div class=w-full>
-        <div class=" hidden h-[100vh] z_index fixed bg-white w-full flex items-center">
-            <div class="absolute top-4 right-3">
+        <div 
+        v-if="NavbarOpen"
+        class="  h-[100vh] z_index fixed bg-white w-full flex items-center">
+            <div 
+            @click="closeNavbar"
+            class="absolute top-4 right-3">
                 <span><i class="text-primary text-3xl pi pi-times"></i></span>
             </div>
-            <div class="flex justify-center items-center">
-                <div class="flex flex-col  justify-center w-full items-center  ">
+            <div class="flex w-full text-[30px]  justify-center items-center">
+                <div class="flex flex-col gap-y-[30px] justify-center w-full items-center  ">
                   <nuxt-link to="/">Home</nuxt-link>
                   <nuxt-link to="/about">About us</nuxt-link>
                   <nuxt-link to="/services">Services</nuxt-link>
@@ -37,8 +41,8 @@
                   </nuxt-link>
                  
               </div>
-              <div class="block md:hidden"  @click="handleIsOpen">
-                      <span><i class="pi pi-bars text-xl text-primary"></i></span>
+              <div class="block md:hidden"  @click="openNavbar">
+                      <span><i class="pi pi-bars text-[30px] text-primary"></i></span>
               </div>
           </nav>
           
@@ -51,7 +55,8 @@
     export default{
         data() {
             return {
-            isNavbarOpaque: false,
+                isNavbarOpaque: false,
+                NavbarOpen : false
             };
         },
         mounted() {
@@ -73,7 +78,13 @@
                 this.isNavbarOpaque = false;
             }
             },
-        },
+            openNavbar(){
+                this.NavbarOpen = true
+            },
+            closeNavbar(){
+                this.NavbarOpen = false
+            }
+        },  
        
     }
 </script>
