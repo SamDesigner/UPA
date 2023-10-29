@@ -1,5 +1,5 @@
 <template>
-    <div class="bg-secondary  pb-[40px] pt:[80px] md:pb-[80px] md:pt-[160px]  space-y-8 px-[16px]">
+    <div class="bg-secondary  pb-[40px] pt-[160px] md:pb-[80px] md:pt-[160px]  space-y-8 px-[16px]">
         <div 
         data-aos="fade-up"
         data-aos-duration="3000"
