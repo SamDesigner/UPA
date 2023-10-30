@@ -27,7 +27,7 @@
 <style scoped>
     .custom_bg{
     
-        background: url('/img/panel.jpg');
+        background: url('/img/newpanel.jpg');
         background-position: center;
         background-size: cover;
     }

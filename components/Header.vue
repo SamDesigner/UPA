@@ -22,14 +22,13 @@
           
           <nav class=" mx-auto max-w-[1440px] md:px-[20px] lg:px-[80px] flex justify-between items-center ">
               <nuxt-link to="/"  >
-                  <img class="h-[50px] " src="/img/logo.png" />
+                  <img class="h-[50px] " src="/img/logoo.png" />
               </nuxt-link>
               
               <div class="hidden md:flex items-center space-x-8 ">
                   <nuxt-link to="/">Home</nuxt-link>
                   <nuxt-link to="/about">About us</nuxt-link>
                   <nuxt-link to="/services">Services</nuxt-link>
-                  
                   <nuxt-link to="/contact">Contact us</nuxt-link>
               </div>
               <div class="hidden lg:flex" >
