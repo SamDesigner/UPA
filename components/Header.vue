@@ -34,7 +34,7 @@
               <div class="hidden lg:flex" >
                   <nuxt-link to="/contact">
                       <div class=" bg-primary  text-white py-3 px-6 rounded-3xl flex items-center gap-3 ">
-                          <span>Book an appointment</span>
+                          <span>Contact Us</span>
                           <i class="pi pi-arrow-right text-xs"></i>
                       </div>
                   </nuxt-link>

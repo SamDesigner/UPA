@@ -9,11 +9,9 @@
         class="max-w-[1440px] mx-auto py-[30px] items flex flex-col gap-[10px] items-center md:justify-center items-center">
             <h1 class="dark_blue">Our Partners</h1>
             <div class="flex flex-col md:flex-row gap-[40px]">
-                <img class="h-[40px]" src="/svg/cisco.svg" />
+                <img class="h-[40px]" src="/img/spons.jpg" />
               
-                <img class="h-[40px]" src="/svg/volvo.svg" />
-                <img class="h-[40px]" src="/svg/walmart.svg" />
-                <img class="h-[40px]" src="/svg/deloitte.svg" />
+               
             </div>
            
         </div>
