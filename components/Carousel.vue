@@ -67,17 +67,17 @@
  
     
     .bg_1{
-        background:linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.8)) ,url('/img/solardawn (1).jpg');
+        background:linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.8)) ,url('/img/newone.jpg');
         background-position:top;
         background-size:cover
     }   
     .bg_2{
-        background:linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.8)) , url('/img/solarteam (1).jpg');
+        background:linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.8)) , url('/img/newtwo.jpg');
         background-position:center;
         background-size:cover
     }   
     .bg_3{
-        background:linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.8)) , url('/img/solarpanel (1).jpg');
+        background:linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.8)) , url('/img/newthree.jpg');
         background-position:center;
         background-size:cover
     }   
