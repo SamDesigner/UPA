@@ -22,7 +22,8 @@
           
           <nav class=" mx-auto max-w-[1440px] md:px-[20px] lg:px-[80px] flex justify-between items-center ">
               <nuxt-link to="/"  >
-                  <img src="/img/logoo.png" class="h-[50px] "  />
+                  <!-- <img src="/img/logoo.png" class="h-[50px] "  /> -->
+                  logo
               </nuxt-link>
               
               <div class="hidden md:flex items-center space-x-8 ">
