@@ -67,7 +67,7 @@
  
     
     .bg_1{
-        background:linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.8)) ,url('/img/newone.jpg');
+        background:linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.8)) ,url('/img/bulb_bg.jpg');
         background-position:top;
         background-size:cover
     }   

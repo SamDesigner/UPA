@@ -6,6 +6,7 @@
         <AboutHero class="overflow-hidden" />
         <WelcomeSection class="overflow-hidden" />
         <AboutVision class="overflow-hidden" />
+        <Team />
         <ServicesItem class="overflow-hidden" />
         <Footer />
     </div>

@@ -148,9 +148,9 @@
 
 
                 <div class="order-1 md:order-2 text-darkGreen flex flex-col lg:w-[576px] gap-[32px] md:gap-[15px] lg:gap-[32px] px-[16px] md:px-[0px]">
-                    <h1 class="text-[20px] lg:text-[32px] font-[600] leading-[36px] md:leading-[48px]">Companionship</h1>
+                    <h1 class="text-[20px] lg:text-[32px] font-[600] leading-[36px] md:leading-[48px]">Sustainable Development Goals</h1>
                     <p class="text-[16px] leading-[28px]">
-                        Our carers offer companionship services to help people stay connected and engaged with their community.
+                        As a company we promote sustainable development goals
                     </p>
                     <div class="flex flex-col gap-[24px] pl-6">
                         <div 
@@ -160,7 +160,7 @@
                                 <img src="/svg/1.svg" />
                             </div>
                             <p class="leading-[28px] text-[16px] font-[400]">
-                                Our support workers offer companionship services to help clients stay connected and engaged in the comfort of their own homes and community.
+                                We ensure access to affordable, reliable, sustainable and mordern energy for all
                             </p>
                         </div>
                         <div 
@@ -170,7 +170,7 @@
                                 <img src="/svg/2.svg" />
                             </div>
                             <p class="leading-[28px] text-[16px] font-[400]">
-                                We can help with booking appointments, grocery shopping, doctor's visits, and transportation support.
+                             Promote sustained, inclusive and sustainable economic growth, full and productive employment and decent work for all.
                             </p>
                         </div>
                     </div>
