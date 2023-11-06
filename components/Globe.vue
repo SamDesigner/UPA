@@ -29,7 +29,13 @@
                         <h1 class="text-[25px] font-bold">Energy Storage</h1>
                         <p class="text-[15px] text-justify">Scalable, efficient and reliable energy storage is key to the global energy transition toward renewables. It is critical for keeping energy sources functioning even after the sun goes down or the wind stops</p>
                     </div>
-                   
+                    <div class="gradient_bg flex flex-col gap-[5px]">
+                        <div class="bg-white flex items-center justify-center text-secondary py-[15px] px-[20px] rounded-tr-xl  rounded-bl-xl  w-fit">
+                            <span><i class="pi pi-sync font-bold "></i></span>
+                        </div>
+                        <h1 class="text-[25px] font-bold">Silicone Solutions for Renewable Energy Component Protection</h1>
+                        <p class="text-[15px] text-justify">Renewables are the fastest-growing source of energy worldwide. Technological advancements and economies of scale have made the utilization of solar and wind energy more accessible and efficient. Silicone solutions play a crucial role in protecting components within these renewable energy systems.</p>
+                    </div>
                     
                 </div>
             </div>
