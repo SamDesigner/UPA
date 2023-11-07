@@ -16,8 +16,8 @@
                                 </div>
                                 <div class="">
                                     <h3 class="text-[16px] leading-[32px] font-[600] text-darkGreen">Email</h3>
-                                    <p class="leading-[30px] text-[14px] text-darkGreen">Send them a private message</p>
-                                    <span class="underline text-[400] leading-[30px]  ">johndoe.co.ng</span>
+                                    <p class="leading-[30px] text-[14px] text-darkGreen">Send Us a Private Message</p>
+                                    <span class="underline text-[400] leading-[30px]  ">hello@upaenergy.org</span>
                                 </div>
                              
                             </div>
@@ -27,7 +27,7 @@
                                 </div>
                                 <div>
                                     <h3 class="text-[16px] leading-[32px] font-[600] text-darkGreen">Telephone</h3>
-                                    <p class="leading-[30px] text-[14px] text-darkGreen">Schedule a call with them</p>
+                                    <p class="leading-[30px] text-[14px] text-darkGreen">Schedule a Call With Us</p>
                                     <p class="underline text-[400] leading-[30px]">+234 80033471271. 09-2904317</p>
                                 </div>
                               
@@ -38,7 +38,7 @@
                                 </div>
                                 <div>
                                     <h3 class="text-[16px] leading-[32px] font-[600] text-darkGreen">Address</h3>
-                                    <p class="leading-[30px] text-[14px] text-darkGreen">Send them a private message</p>
+                                    <p class="leading-[30px] text-[14px] text-darkGreen">Send Us a Private Message</p>
                                     <p class="underline text-[400] leading-[30px]">Deo-Gratias Plaza, Wing B, 3rd floor Plot 21A, Ekukinam Street Opp, Utako Market, Abuja.</p>
                                 </div>
                               
