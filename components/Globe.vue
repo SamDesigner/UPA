@@ -13,7 +13,7 @@
                             <span><i class="pi pi-sync font-bold "></i></span>
                         </div>
                         <h1 class="text-[25px] font-bold">Photovoltaic inverters</h1>
-                        <p class="text-[15px] text-justify">Inverters can generate massive amounts of heat and need to operate reliably in harsh outdoor environments. Without proper shelter and preservation from the elements, they are at great risk of damage</p>
+                        <p class="text-[15px] text-justify">Inverters are essential components responsible for converting electrical energy, but they tend to generate significant heat during their operation. To maintain their performance and longevity, particularly when used in challenging outdoor settings, it's crucial to shield them from the elements</p>
                     </div>
                     <div class="gradient_bg flex flex-col gap-[5px]">
                         <div class="bg-white flex items-center justify-center text-secondary py-[15px] px-[20px] rounded-tr-xl  rounded-bl-xl  w-fit">
@@ -27,7 +27,7 @@
                             <span><i class="pi pi-bolt font-bold "></i></span>
                         </div>
                         <h1 class="text-[25px] font-bold">Energy Storage</h1>
-                        <p class="text-[15px] text-justify">Scalable, efficient and reliable energy storage is key to the global energy transition toward renewables. It is critical for keeping energy sources functioning even after the sun goes down or the wind stops</p>
+                        <p class="text-[15px] text-justify">Scalable, efficient, and dependable energy storage plays a pivotal role in driving the global energy transition towards renewable sources. This technology is of paramount importance in ensuring the continuous operation of energy sources even when sunlight fades and wind diminishes</p>
                     </div>
                     <div class="gradient_bg flex flex-col gap-[5px]">
                         <div class="bg-white flex items-center justify-center text-secondary py-[15px] px-[20px] rounded-tr-xl  rounded-bl-xl  w-fit">
