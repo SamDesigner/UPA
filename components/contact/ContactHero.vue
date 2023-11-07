@@ -17,7 +17,7 @@
                                 <div class="">
                                     <h3 class="text-[16px] leading-[32px] font-[600] text-darkGreen">Email</h3>
                                     <p class="leading-[30px] text-[14px] text-darkGreen">Send Us a Private Message</p>
-                                    <span href = "mailto:hello@upaenergy.org" class="underline text-[400] leading-[30px]  ">hello@upaenergy.org</span>
+                                    <span class="underline text-[400] leading-[30px]  ">  <a href = "mailto:hello@upaenergy.org">hello@upaenergy.org</a></span>
                                 </div>
                              
                             </div>
