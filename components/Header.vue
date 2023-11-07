@@ -21,9 +21,8 @@
         <div class="navbar px-[16px] md:px-0  py-[10px] w-auto mx-auto   " :class="{ 'opaque': isNavbarOpaque }">
           
           <nav class=" mx-auto max-w-[1440px] md:px-[20px] lg:px-[80px] flex justify-between items-center ">
-              <nuxt-link to="/"  >
-                  <img src="/img/logo.png" class="h-[50px] "  />
-                
+              <nuxt-link to="/" exact>
+                  <img src="/img/logo.png" class="h-[50px]" />
               </nuxt-link>
               
               <div class="hidden md:flex items-center space-x-8 ">

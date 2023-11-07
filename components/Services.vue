@@ -47,7 +47,7 @@
                         <span ><i class="pi pi-check"></i></span>    
                     </div>
                     <h3 class="text-[16px] font-[600] leading-[32px]  ">Reliability</h3>   
-                    <p class="text-[16px] font-[400] leading-[28px] text-gray-700">Upa Energy is synonymous with dependable and uninterrupted power supply.</p>
+                    <p class="text-[16px] font-[400] leading-[28px] text-gray-700">UPA Energy is synonymous with dependable and uninterrupted power supply.</p>
                 </div>
             </div>
            

@@ -45,7 +45,7 @@
                 </ul>
                 <div class="flex flex-col md:flex-row gap-4 items-center justify-center">
                 
-                    <p>&copy; Copyright 2022 Miro</p>
+                    <p>&copy; Copyright 2023 UPA</p>
                     <ul class="flex items-center gap-3">
                         
                         <li><a href="#">Terms of service</a></li>

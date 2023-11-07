@@ -16,7 +16,7 @@
                         <img class="h-full img_fit w-full md:rounded-full" src="/img/ceo1.jpg" />
                     </div>
                    <div class="py-[10px] flex justify-center flex-col items-center">
-                        <h1>Mr Mansa Musa</h1>
+                        <h1>Mr Uche Peters</h1>
                         <h3 class="text-primary">CEO</h3>
                    </div>
                 </div>
@@ -31,7 +31,7 @@
                     </div>
                     <div class="py-[10px] flex justify-center flex-col items-center">
                         <h1>Mr James Charles</h1>
-                        <h3 class="text-primary">CEO</h3>
+                        <h3 class="text-primary">CTO</h3>
                    </div>
                 </div>
                 <div 
@@ -44,8 +44,8 @@
                         <img class="h-full img_fit w-full md:rounded-full" src="/img/ceo1.jpg" />
                     </div>
                     <div class="py-[10px] flex justify-center flex-col items-center">
-                        <h1>Mr Mansa Musa</h1>
-                        <h3 class="text-primary">CEO</h3>
+                        <h1>Mr Uche Peters</h1>
+                        <h3 class="text-primary">Founder</h3>
                    </div>
                 </div>
             </div>
