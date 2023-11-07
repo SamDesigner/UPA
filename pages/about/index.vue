@@ -7,7 +7,7 @@
         <WelcomeSection class="overflow-hidden" />
         <AboutVision class="overflow-hidden" />
         <Team />
-        <ServicesItem class="overflow-hidden" />
+        <AboutItem class="overflow-hidden" />
         <Footer />
     </div>
 </template>

@@ -17,7 +17,7 @@
                                 <div class="">
                                     <h3 class="text-[16px] leading-[32px] font-[600] text-darkGreen">Email</h3>
                                     <p class="leading-[30px] text-[14px] text-darkGreen">Send them a private message</p>
-                                    <span class="underline text-[400] leading-[30px]  ">johndoe.co.ng</span>
+                                    <a target="blank" href="mailto:https://johndoe@gmail.com" class="cursor-pointer underline text-[400] leading-[30px]  ">johndoe.co.ng</a>
                                 </div>
                              
                             </div>
@@ -28,7 +28,10 @@
                                 <div>
                                     <h3 class="text-[16px] leading-[32px] font-[600] text-darkGreen">Telephone</h3>
                                     <p class="leading-[30px] text-[14px] text-darkGreen">Schedule a call with them</p>
-                                    <p class="underline text-[400] leading-[30px]">+234 80033471271. 09-2904317</p>
+                                    <p class=" text-[400] leading-[30px] flex flex-col gap-[8px] "> 
+                                        <a class="underline" href="tel:+234 80033471271.">+234 80033471271.</a> 
+                                        <a class="underline" href="tel:09-2904317">09-2904317</a>
+                                    </p>
                                 </div>
                               
                             </div>
@@ -39,7 +42,10 @@
                                 <div>
                                     <h3 class="text-[16px] leading-[32px] font-[600] text-darkGreen">Address</h3>
                                     <p class="leading-[30px] text-[14px] text-darkGreen">Send them a private message</p>
-                                    <p class="underline text-[400] leading-[30px]">Deo-Gratias Plaza, Wing B, 3rd floor Plot 21A, Ekukinam Street Opp, Utako Market, Abuja.</p>
+                                    <Nuxt-link to="https://www.google.com/maps/search/Deo-Gratias+Plaza,+Wing+B,+3rd+floor+Plot+21A,+Ekukinam+Street+Opp,+Utako+Market,+Abuja./@9.0670457,7.4424159,17z/data=!3m1!4b1?entry=ttu"
+                                    target="blank"
+                                    class="underline text-[400] leading-[30px]">
+                                        Deo-Gratias Plaza, Wing B, 3rd floor Plot 21A, Ekukinam Street Opp, Utako Market, Abuja.</Nuxt-link>
                                 </div>
                               
                             </div>
@@ -53,7 +59,7 @@
                                 <div>
                                     <h3 class="text-[16px] leading-[32px] font-[600] text-darkGreen">Email</h3>
                                     <p class="leading-[30px] text-[14px] text-darkGreen">Send us a private message</p>
-                                    <p class="underline text-[400] leading-[30px] text-primary">upa@gmail.com</p>
+                                    <a target="blank" href="mailto:https://johndoe@gmail.com" class="cursor-pointer underline text-[400] leading-[30px]  ">johndoe.co.ng</a>
                                 </div>
                              
                             </div>
@@ -75,7 +81,10 @@
                                 <div>
                                     <h3 class="text-[16px] leading-[32px] font-[600] text-darkGreen">Address</h3>
                                     <p class="leading-[30px] text-[14px] text-darkGreen">Visit their office HQ</p>
-                                    <p class="underline text-[400] leading-[30px] text-primary">Deo-Gratias Plaza, Wing B, 3rd floor Plot 21A, Ekukinam Street Opp, Utako Market, Abuja.</p>
+                                    <Nuxt-link to="https://www.google.com/maps/search/Deo-Gratias+Plaza,+Wing+B,+3rd+floor+Plot+21A,+Ekukinam+Street+Opp,+Utako+Market,+Abuja./@9.0670457,7.4424159,17z/data=!3m1!4b1?entry=ttu"  
+                                    class="underline text-[400] leading-[30px] text-primary cursor-pointer">
+                                        Deo-Gratias Plaza, Wing B, 3rd floor Plot 21A, Ekukinam Street Opp, Utako Market, Abuja.
+                                    </Nuxt-link>
                                 </div>
                               
                             </div>

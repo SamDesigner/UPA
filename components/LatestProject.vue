@@ -22,16 +22,7 @@
 
           
             <div class=" max-w-[1440px] mx-auto grid md:grid-cols-2 lg:grid-cols-4 grid-cols-1 gap-[30px] mt-[20px]">
-                    <div class="">
-                            <div class="h-[300px] w-full    ">
-                                <img class="overflow-hidden rounded-tr-xl rounded-tl-xl w-full h-full fit_img" src="/img/welding.jpg" />
-                            </div>
-                            <div class="py-[10px] bg-white px-[10px] flex flex-col gap-[5px]">
-                                <h3 class="text-black text-lg font-[400] text-primary">Welding Cables</h3>
-                                <div class="border w-[30px] border-b-darkYellow"></div>
-                                <p class="text-[14px]">Our Welded cables can be used in factories and is a very valuable conductor of electricity</p>
-                            </div>
-                    </div>
+                 
                     <div class="">
                             <div class="h-[300px] w-full    ">
                                 <img class="overflow-hidden rounded-tr-xl rounded-tl-xl w-full h-full fit_img" src="/img/pic1.jpg" />
@@ -82,16 +73,7 @@
                                 <p class="text-[14px]">Our inverter battries are the best in nigeria, purchase one and thank us later.Shop with us now.</p>
                             </div>
                     </div>
-                    <div class="">
-                            <div class="h-[300px] w-full    ">
-                                <img class="overflow-hidden rounded-tr-xl rounded-tl-xl w-full h-full fit_img" src="/img/pic2.jpg" />
-                            </div>
-                            <div class="py-[10px] bg-white px-[10px] flex flex-col gap-[5px]">
-                                <h3 class="text-black text-lg font-[400] text-primary">Solar Cars</h3>
-                                <div class="border w-[30px] border-b-darkYellow"></div>
-                                <p class="text-[14px]">Solar cars are being produced here at upa, get in touch with us to get your solar friendly cars.</p>
-                            </div>
-                    </div>
+                  
                     <div class="">
                             <div class="h-[300px] w-full    ">
                                 <img class="overflow-hidden rounded-tr-xl rounded-tl-xl w-full h-full fit_img" src="/img/pic3.jpg" />
