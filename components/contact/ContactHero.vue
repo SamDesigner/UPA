@@ -8,42 +8,42 @@
                         <h1 class="text-white  font-[600] text-[28px] lg:text-[40px] text-center leading-[44px] lg:leading-[56px]">We're here for you</h1>
                         <p class="text-white text-[16px] font-[400] text-center leading-[28px]">Our friendly team are always ready to help you.</p>
                     </div>
-                  
                     <div class="hidden custom_bg w-full   h-[480px] rounded-[24px] md:flex justify-center items-center ">
                         <div class="lg:w-[848px] grid grid-cols-3  gap-[24px]">
-                    <div class="px-[24px] h-[280px] lg:w-[280px] rounded-[8px] py-[16px] bg-white flex flex-col gap-[10px]">
-                        <div class="bg-primary w-fit text-white py-3 px-4 rounded-xl">
-                            <span><i class="pi pi-comment"></i></span>
+                            <div class="px-[24px] h-[280px] lg:w-[280px] rounded-[8px] py-[16px] bg-white flex flex-col   gap-[10px]">
+                                <div class="bg-primary w-fit text-white py-3 px-4 rounded-xl">
+                                    <span><i class="pi pi-comment"></i></span>
+                                </div>
+                                <div class="">
+                                    <h3 class="text-[16px] leading-[32px] font-[600] text-darkGreen">Email</h3>
+                                    <p class="leading-[30px] text-[14px] text-darkGreen">Send Us a Private Message</p>
+                                    <span class="underline text-[400] leading-[30px]  ">hello@upaenergy.org</span>
+                                </div>
+                             
+                            </div>
+                            <div class="px-[24px] h-[280px] lg:w-[280px] rounded-[8px] py-[16px] bg-white flex flex-col gap-[10px]">
+                                <div class="bg-primary w-fit text-white py-3 px-4 rounded-xl">
+                                    <span><i class="pi pi-phone"></i></span>
+                                </div>
+                                <div>
+                                    <h3 class="text-[16px] leading-[32px] font-[600] text-darkGreen">Telephone</h3>
+                                    <p class="leading-[30px] text-[14px] text-darkGreen">Schedule a Call With Us</p>
+                                    <p class="underline text-[400] leading-[30px]">+234 80033471271. 09-2904317</p>
+                                </div>
+                              
+                            </div>
+                            <div class="px-[24px] h-[280px] lg:w-[280px] rounded-[8px] py-[16px] bg-white flex flex-col gap-[10px]">
+                                <div class="bg-primary w-fit text-white py-3 px-4 rounded-xl"> 
+                                    <span><i class="pi pi-map-marker"></i></span>
+                                </div>
+                                <div>
+                                    <h3 class="text-[16px] leading-[32px] font-[600] text-darkGreen">Address</h3>
+                                    <p class="leading-[30px] text-[14px] text-darkGreen">Send Us a Private Message</p>
+                                    <p class="underline text-[400] leading-[30px]">Deo-Gratias Plaza, Wing B, 3rd floor Plot 21A, Ekukinam Street Opp, Utako Market, Abuja.</p>
+                                </div>
+                              
+                            </div>
                         </div>
-                        <div>
-                            <h3 class="text-[16px] leading-[32px] font-[600] text-darkGreen">Email</h3>
-                            <p class="leading-[30px] text-[14px] text-darkGreen">Send Us a Private Message</p>
-                            <a class="underline text-[400] leading-[30px]" href="mailto:hello@upaenergy.org">hello@upaenergy.org</a>
-                        </div>
-                    </div>
-                    
-                    <div class="px-[24px] h-[280px] lg:w-[280px] rounded-[8px] py-[16px] bg-white flex flex-col gap-[10px]">
-                        <div class="bg-primary w-fit text-white py-3 px-4 rounded-xl">
-                            <span><i class="pi pi-phone"></i></span>
-                        </div>
-                        <div>
-                            <h3 class="text-[16px] leading-[32px] font-[600] text-darkGreen">Telephone</h3>
-                            <p class="leading-[30px] text-[14px] text-darkGreen">Schedule a Call With Us</p>
-                            <a class="underline text-[400] leading-[30px]" href="tel:+23480033471271">+234 80033471271</a>. <a class="underline text-[400] leading-[30px]" href="tel:092904317">09-2904317</a>
-                        </div>
-                    </div>
-                    
-                    <div class="px-[24px] h-[280px] lg:w-[280px] rounded-[8px] py-[16px] bg-white flex flex-col gap-[10px]">
-                        <div class="bg-primary w-fit text-white py-3 px-4 rounded-xl"> 
-                            <span><i class="pi pi-map-marker"></i></span>
-                        </div>
-                        <div>
-                            <h3 class="text-[16px] leading-[32px] font-[600] text-darkGreen">Address</h3>
-                            <p class="leading-[30px] text-[14px] text-darkGreen">Send Us a Private Message</p>
-                            <a class="underline text-[400] leading-[30px]" href="https://maps.google.com?q=Deo-Gratias%20Plaza,%20Wing%20B,%203rd%20floor%20Plot%2021A,%20Ekukinam%20Street%20Opp,%20Utako%20Market,%20Abuja.">Deo-Gratias Plaza, Wing B, 3rd floor Plot 21A, Ekukinam Street Opp, Utako Market, Abuja.</a>
-                        </div>
-                    </div>
-
                     </div>
                     <div class="w-full grid grid-cols-1 md:hidden gap-[40px] ">
                             <div class="px-[24px] h-[280px]  rounded-[8px] py-[16px] bg-white flex flex-col gap-[40px]">
