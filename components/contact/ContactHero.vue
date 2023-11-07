@@ -10,7 +10,7 @@
                     </div>
                     <div class="hidden custom_bg w-full   h-[480px] rounded-[24px] md:flex justify-center items-center ">
                         <div class="lg:w-[848px] grid grid-cols-3  gap-[24px]">
-                            <div class="px-[24px] h-[280px] lg:w-[280px] rounded-[8px] py-[16px] bg-white flex flex-col gap-[10px]">
+                    <div class="px-[24px] h-[280px] lg:w-[280px] rounded-[8px] py-[16px] bg-white flex flex-col gap-[10px]">
                         <div class="bg-primary w-fit text-white py-3 px-4 rounded-xl">
                             <span><i class="pi pi-comment"></i></span>
                         </div>
