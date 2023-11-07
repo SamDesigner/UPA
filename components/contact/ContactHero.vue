@@ -53,7 +53,7 @@
                                 <div>
                                     <h3 class="text-[16px] leading-[32px] font-[600] text-darkGreen">Email</h3>
                                     <p class="leading-[30px] text-[14px] text-darkGreen">Send us a private message</p>
-                                    <p class="underline text-[400] leading-[30px] text-primary">upa@gmail.com</p>
+                                    <p class="underline text-[400] leading-[30px] text-primary"> <a href = "mailto:hello@upaenergy.org">hello@upaenergy.org</a></p>
                                 </div>
                              
                             </div>
@@ -64,7 +64,7 @@
                                 <div>
                                     <h3 class="text-[16px] leading-[32px] font-[600] text-darkGreen">Telephone</h3>
                                     <p class="leading-[30px] text-[14px] text-darkGreen">Schedule a call with us</p>
-                                    <p class="underline text-[400] leading-[30px] text-primary">+234 80033471271. 09-2904317</p>
+                                    <p class="underline text-[400] leading-[30px] text-primary"><a href="tel:+23480033471271">+234 80033471271. 09-2904317</a></p>
                                 </div>
                              
                             </div>
