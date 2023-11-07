@@ -8,6 +8,7 @@
                         <h1 class="text-white  font-[600] text-[28px] lg:text-[40px] text-center leading-[44px] lg:leading-[56px]">We're here for you</h1>
                         <p class="text-white text-[16px] font-[400] text-center leading-[28px]">Our friendly team are always ready to help you.</p>
                     </div>
+                  
                     <div class="hidden custom_bg w-full   h-[480px] rounded-[24px] md:flex justify-center items-center ">
                         <div class="lg:w-[848px] grid grid-cols-3  gap-[24px]">
                     <div class="px-[24px] h-[280px] lg:w-[280px] rounded-[8px] py-[16px] bg-white flex flex-col gap-[10px]">
