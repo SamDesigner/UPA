@@ -58,9 +58,9 @@
                                 <img class="overflow-hidden rounded-tr-xl rounded-tl-xl w-full h-full fit_img" src="/img/pic4.jpg" />
                             </div>
                             <div class="py-[10px] bg-white px-[10px] flex flex-col gap-[5px]">
-                                <h3 class="text-black text-lg font-[400] text-primary">Solar Cookers</h3>
+                                <h3 class="text-black text-lg font-[400] text-primary">Control Systems</h3>
                                 <div class="border w-[30px] border-b-darkYellow"></div>
-                                <p class="text-[14px]">Worried about basic gas, here at upa we break the laws of science, with out top quality solar cooker the first of it's kind </p>
+                                <p class="text-[14px]">Worried about basic gas, here at upa we break the laws of science, with out top quality Control System the first of it's kind </p>
                             </div>
                     </div>
                     <div class="">
