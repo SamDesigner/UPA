@@ -18,76 +18,88 @@
                     <button class="bg-primary text-white w-fit py-[20px] px-[25px]">Explore All Projects <span><i class="pi pi-arrow-right"></i></span></button>
                 </div>
             </div>
-
-
-          
-            <div class=" max-w-[1440px] mx-auto grid md:grid-cols-2 lg:grid-cols-4 grid-cols-1 gap-[30px] mt-[20px]">
-                 
-                    <div class="">
-                            <div class="h-[300px] w-full    ">
-                                <img class="overflow-hidden rounded-tr-xl rounded-tl-xl w-full h-full fit_img" src="/img/pic1.jpg" />
-                            </div>
-                            <div class="py-[10px] bg-white px-[10px] flex flex-col gap-[5px]">
-                                <h3 class="text-black text-lg font-[400] text-primary">Solar Batteries</h3>
-                                <div class="border w-[30px] border-b-darkYellow"></div>
-                                <p class="text-[14px]">Our Solar panels come with in built solar batteries tht will help extend the lifespan of your solar panel</p>
-                            </div>
+            
+            
+                      
+            <div class="max-w-[1440px] mx-auto grid md:grid-cols-2 lg:grid-cols-4 grid-cols-1 gap-[30px] mt-[20px]">
+                <div class="">
+                    <div class="h-[300px] w-full">
+                        <img class="overflow-hidden rounded-tr-xl rounded-tl-xl w-full h-full fit_img" src="/img/pic1.jpg" />
                     </div>
-                    <div class="">
-                            <div class="h-[300px] w-full    ">
-                                <img class="overflow-hidden rounded-tr-xl rounded-tl-xl w-full h-full fit_img" src="/img/pic2.jpg" />
-                            </div>
-                            <div class="py-[10px] bg-white px-[10px] flex flex-col gap-[5px]">
-                                <h3 class="text-black text-lg font-[400] text-primary">Inverters</h3>
-                                <div class="border w-[30px] border-b-darkYellow"></div>
-                                <p class="text-[14px]">Explore our long lasting inverter batteries, enjoy the quality of the no1 leading brand in nigeria</p>
-                            </div>
+                    <div class="py-[10px] bg-white px-[10px] flex flex-col gap-[5px]">
+                        <h3 class="text-black text-lg font-[400] text-primary">Solar Batteries</h3>
+                        <div class="border w-[30px] border-b-darkYellow"></div>
+                        <p class="text-[14px]">Our advanced solar batteries are designed to enhance the performance and extend the lifespan of your solar panels.</p>
                     </div>
-                    <div class="">
-                            <div class="h-[300px] w-full    ">
-                                <img class="overflow-hidden rounded-tr-xl rounded-tl-xl w-full h-full fit_img" src="/img/pic3.jpg" />
-                            </div>
-                            <div class="py-[10px] bg-white px-[10px] flex flex-col gap-[5px]">
-                                <h3 class="text-black text-lg font-[400] text-primary">Solar Bulbs</h3>
-                                <div class="border w-[30px] border-b-darkYellow"></div>
-                                <p class="text-[14px]">Explore our high quality solar bulbs capable of lighting up your domain for 52-hours without any form of glitch </p>
-                            </div>
+                </div>
+            
+                <div class="">
+                    <div class="h-[300px] w-full">
+                        <img class="overflow-hidden rounded-tr-xl rounded-tl-xl w-full h-full fit_img" src="/img/pic2.jpg" />
                     </div>
-                    <div class="">
-                            <div class="h-[300px] w-full    ">
-                                <img class="overflow-hidden rounded-tr-xl rounded-tl-xl w-full h-full fit_img" src="/img/pic4.jpg" />
-                            </div>
-                            <div class="py-[10px] bg-white px-[10px] flex flex-col gap-[5px]">
-                                <h3 class="text-black text-lg font-[400] text-primary">Control Systems</h3>
-                                <div class="border w-[30px] border-b-darkYellow"></div>
-                                <p class="text-[14px]">Worried about basic gas, here at upa we break the laws of science, with out top quality Control System the first of it's kind </p>
-                            </div>
+                    <div class="py-[10px] bg-white px-[10px] flex flex-col gap-[5px]">
+                        <h3 class="text-black text-lg font-[400] text-primary">Inverters</h3>
+                        <div class="border w-[30px] border-b-darkYellow"></div>
+                        <p class="text-[14px]">Discover our durable inverter batteries, offering exceptional quality and reliability as the leading brand in Nigeria.</p>
                     </div>
-                    <div class="">
-                            <div class="h-[300px] w-full    ">
-                                <img class="overflow-hidden rounded-tr-xl rounded-tl-xl w-full h-full fit_img" src="/img/pic5.jpg" />
-                            </div>
-                            <div class="py-[10px] bg-white px-[10px] flex flex-col gap-[5px]">
-                                <h3 class="text-black text-lg font-[400] text-primary">Inverter Batteries</h3>
-                                <div class="border w-[30px] border-b-darkYellow"></div>
-                                <p class="text-[14px]">Our inverter battries are the best in nigeria, purchase one and thank us later.Shop with us now.</p>
-                            </div>
+                </div>
+            
+                <div class="">
+                    <div class="h-[300px] w-full">
+                        <img class="overflow-hidden rounded-tr-xl rounded-tl-xl w-full h-full fit_img" src="/img/pic3.jpg" />
                     </div>
-                  
-                    <div class="">
-                            <div class="h-[300px] w-full    ">
-                                <img class="overflow-hidden rounded-tr-xl rounded-tl-xl w-full h-full fit_img" src="/img/pic3.jpg" />
-                            </div>
-                            <div class="py-[10px] bg-white px-[10px] flex flex-col gap-[5px]">
-                                <h3 class="text-black text-lg font-[400] text-primary">Solar Smoke Machine</h3>
-                                <div class="border w-[30px] border-b-darkYellow"></div>
-                                <p class="text-[14px]">Entertainers and influencers can spice up their shows with our solar smoke machine and spice up the event</p>
-                            </div>
+                    <div class="py-[10px] bg-white px-[10px] flex flex-col gap-[5px]">
+                        <h3 class="text-black text-lg font-[400] text-primary">Solar Bulbs</h3>
+                        <div class="border w-[30px] border-b-darkYellow"></div>
+                        <p class="text-[14px]">Experience our high-quality solar bulbs, providing reliable illumination for up to 52 hours without any interruptions.</p>
                     </div>
-                    
-                
-                  
+                </div>
+            
+                <div class="">
+                    <div class="h-[300px] w-full">
+                        <img class="overflow-hidden rounded-tr-xl rounded-tl-xl w-full h-full fit_img" src="/img/pic4.jpg" />
+                    </div>
+                    <div class="py-[10px] bg-white px-[10px] flex flex-col gap-[5px]">
+                        <h3 class="text-black text-lg font-[400] text-primary">Control Systems</h3>
+                        <div class="border w-[30px] border-b-darkYellow"></div>
+                        <p class="text-[14px]">Address basic gas concerns with our top-quality Control Systems, breaking scientific barriers for unparalleled performance.</p>
+                    </div>
+                </div>
+            
+                <div class="">
+                    <div class="h-[300px] w-full">
+                        <img class="overflow-hidden rounded-tr-xl rounded-tl-xl w-full h-full fit_img" src="/img/pic5.jpg" />
+                    </div>
+                    <div class="py-[10px] bg-white px-[10px] flex flex-col gap-[5px]">
+                        <h3 class="text-black text-lg font-[400] text-primary">Inverter Systems</h3>
+                        <div class="border w-[30px] border-b-darkYellow"></div>
+                        <p class="text-[14px]">Choose the best inverter batteries in Nigeria from UPA Energy for reliable power supply. Shop with us now and thank us later.</p>
+                    </div>
+                </div>
+            
+                <div class="">
+                    <div class="h-[300px] w-full">
+                        <img class="overflow-hidden rounded-tr-xl rounded-tl-xl w-full h-full fit_img" src="/img/pic3.jpg" />
+                    </div>
+                    <div class="py-[10px] bg-white px-[10px] flex flex-col gap-[5px]">
+                        <h3 class="text-black text-lg font-[400] text-primary">Solar Smoke Machine</h3>
+                        <div class="border w-[30px] border-b-darkYellow"></div>
+                        <p class="text-[14px]">Enhance your shows with our solar smoke machine, adding excitement and entertainment to your events.</p>
+                    </div>
+                </div>
+            
+                <div class="">
+                    <div class="h-[300px] w-full">
+                        <img class="overflow-hidden rounded-tr-xl rounded-tl-xl w-full h-full fit_img" src="/img/pic3.jpg" />
+                    </div>
+                    <div class="py-[10px] bg-white px-[10px] flex flex-col gap-[5px]">
+                        <h3 class="text-black text-lg font-[400] text-primary">Installations</h3>
+                        <div class="border w-[30px] border-b-darkYellow"></div>
+                        <p class="text-[14px]">Get professional installations for your energy solutions, ensuring optimal performance for your systems.</p>
+                    </div>
+                </div>
             </div>
+
         </div>
        
    
