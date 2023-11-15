@@ -31,7 +31,7 @@
 
 
                                     <p class="leading-[30px] text-[14px] text-darkGreen">Schedule a Call With Us</p>
-                                    <p class="underline text-[400] leading-[30px]"><a href="tel:+23480033471271">+234 80033471271</a></p>
+                                    <p class="underline text-[400] leading-[30px]"><a href="tel:+23480033471271">+234 803 347 1271</a></p>
                                     <p class="underline text-[400] leading-[30px]"><a href="tel:+23480033471271">+234 09-2904317</a></p> 
 
                                 </div>
@@ -45,7 +45,7 @@
                                     <h3 class="text-[16px] leading-[32px] font-[600] text-darkGreen">Address</h3>
 
                                     <p class="leading-[30px] text-[14px] text-darkGreen">Send Us a Private Message</p>
-                                    <p class="underline text-[400] leading-[30px]">Deo-Gratias Plaza, Wing B, 3rd floor Plot 21A, Ekukinam Street Opp, Utako Market, Abuja.</p>
+                                    <p class="underline text-[400] leading-[30px]">Plot 21 A.E.Ekukinam Street,Wing B 3rd floor,Deo-Gratias Plaza,Utako, FCT-Abuja.</p>
 
                                 </div>
                               
@@ -72,8 +72,12 @@
                                 </div>
                                 <div>
                                     <h3 class="text-[16px] leading-[32px] font-[600] text-darkGreen">Telephone</h3>
-                                    <p class="leading-[30px] text-[14px] text-darkGreen">Schedule a call with us</p>
-                                    <p class="underline text-[400] leading-[30px] text-primary"><a href="tel:+23480033471271">+234 80033471271. 09-2904317</a></p>
+
+
+                                    <p class="leading-[30px] text-[14px] text-darkGreen">Schedule a Call With Us</p>
+                                    <p class="underline text-[400] leading-[30px]"><a href="tel:+23480033471271">+234 803 347 1271</a></p>
+                                    <p class="underline text-[400] leading-[30px]"><a href="tel:+23480033471271">+234 09-2904317</a></p> 
+
                                 </div>
                              
                             </div>
@@ -86,7 +90,7 @@
                                     <p class="leading-[30px] text-[14px] text-darkGreen">Visit their office HQ</p>
                                     <Nuxt-link to="https://www.google.com/maps/search/Deo-Gratias+Plaza,+Wing+B,+3rd+floor+Plot+21A,+Ekukinam+Street+Opp,+Utako+Market,+Abuja./@9.0670457,7.4424159,17z/data=!3m1!4b1?entry=ttu"  
                                     class="underline text-[400] leading-[30px] text-primary cursor-pointer">
-                                        Deo-Gratias Plaza, Wing B, 3rd floor Plot 21A, Ekukinam Street Opp, Utako Market, Abuja.
+                                        Plot 21 A.E.Ekukinam Street,Wing B 3rd floor,Deo-Gratias Plaza,Utako, FCT-Abuja..
                                     </Nuxt-link>
                                 </div>
                               

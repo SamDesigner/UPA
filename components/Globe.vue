@@ -33,8 +33,8 @@
                         <div class="bg-white flex items-center justify-center text-secondary py-[15px] px-[20px] rounded-tr-xl  rounded-bl-xl  w-fit">
                             <span><i class="pi pi-sync font-bold "></i></span>
                         </div>
-                        <h1 class="text-[25px] font-bold">Silicone Solutions</h1>
-                        <p class="text-[15px] text-justify">Renewables are the fastest-growing source of energy worldwide. Technological advancements and economies of scale have made the utilization of solar and wind energy more accessible and efficient. Silicone solutions play a crucial role in protecting components within these renewable energy systems.</p>
+                        <h1 class="text-[25px] font-bold">Controllers</h1>
+                        <p class="text-[15px] text-justify">Elevate your solar game with UPA Energy's advanced controllers. Precision engineering ensures optimal power distribution, real-time monitoring, and adaptive performance. Join forces with technology that speaks the language of engineers. UPA Energy: Where solar efficiency meets technical excellence.</p>
                     </div>
                     
                 </div>

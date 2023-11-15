@@ -1,28 +1,30 @@
 <template>
-    <div class="relative">
-       
-    
-        
-    
-        <div class="bg-white py-[80px] px-[16px] flex items-center justify-center" >
-            
-            <div class="lg:max-w-[1440px]  lg:px-[80px] flex flex-col gap-[40px] lg:flex-row justify-between">
-                <div
-                data-aos="fade-right"
-                data-aos-offset="300"
-                data-aos-easing="ease-in-sine"
-                class="">
-                    <div class="flex-1 lg:w-[576px] flex flex-col gap-[40px]">
-                        <div>
-                            <h1 class="text-darkGreen leading-[36px] md:leading-[48px] text-[20px] md:text-[32px] font-[600]">Let us give you a call</h1>
-                            <p class="text-[16px] leading-[28px] font-[400] text-darkGreen">
-                                Send us your details in the form below and a member of our team will call you as soon as possible. If you’d like to speak to us straight away, call <span class="text-primary">+234 80033471271. 09-2904317</span> We’re available seven days a week.
-                            </p>
-                        </div>
-                        <div class="flex gap-[32px]">
-                            <!-- <img src="/svg/facebook.svg" />
+  <div class="relative">
+    <div class="bg-white py-[80px] px-[16px] flex items-center justify-center">
+      <div class="lg:max-w-[1440px] lg:px-[80px] flex flex-col gap-[40px] lg:flex-row justify-between">
+        <div
+          data-aos="fade-right"
+          data-aos-offset="300"
+          data-aos-easing="ease-in-sine"
+        >
+          <div class="flex-1 lg:w-[576px] flex flex-col gap-[40px]">
+            <div>
+              <h1 class="text-darkGreen leading-[36px] md:leading-[48px] text-[20px] md:text-[32px] font-[600]">
+                Let us give you a call
+              </h1>
+              <p class="text-[16px] leading-[28px] font-[400] text-darkGreen">
+                Send us your details in the form below, and a member of our team
+                will call you as soon as possible. If you’d like to speak to us
+                straight away, call{" "}
+                <span class="text-primary">+234 80033471271. 09-2904317</span>{" "}
+                We’re available seven days a week.
+              </p>
+            </div>
+            <div class="flex gap-[32px]">
+              <!-- <img src="/svg/facebook.svg" />
                             <img src="/svg/linkedin.svg" />
                             <img src="/svg/twitter.svg" /> -->
+
                         </div>
                     
                     </div>
@@ -92,30 +94,52 @@
                     </div>
                     
                 </div>
-            </div>
+
         </div>
+      </div>
     </div>
-    
+
 </template>
 
+<script>
+export default {
+  methods: {
+    generateMailtoLink() {
+      const subject = encodeURIComponent("Message from Your Website");
+      const body = encodeURIComponent(this.getMessageBody());
+      const email = "recipient@example.com"; // replace with your recipient's email address
+      return `mailto:${email}?subject=${subject}&body=${body}`;
+    },
+    getMessageBody() {
+      const firstName = this.$refs.firstName.value || "";
+      const lastName = this.$refs.lastName.value || "";
+      // ... extract other form field values ...
+      const subject = this.$refs.subject.value || "";
+      const message = this.$refs.message.value || "";
+
+      return `First Name: ${firstName}\nLast Name: ${lastName}\nSubject: ${subject}\nMessage: ${message}`;
+    },
+  },
+};
+</script>
+
 <style scoped>
-    .custom_index{
-        z-index:2000
-    }
-    .custom_text{
-        color:rgb(220, 8, 8) !important
-        
-    }
-    .custom_btn{
-        background: rgb(220, 8, 8) !important;;
-    }
-    .gradient_bg{
-        background:rgba(0,0,0,0.8)
-    }
-    .custom_greenText{
-        color: rgb(10, 192, 125);;
-    }
-    .customGreen{
-        background: rgb(10, 192, 125);
-    }
+.custom_index {
+  z-index: 2000;
+}
+.custom_text {
+  color: rgb(220, 8, 8) !important;
+}
+.custom_btn {
+  background: rgb(220, 8, 8) !important;
+}
+.gradient_bg {
+  background: rgba(0, 0, 0, 0.8);
+}
+.custom_greenText {
+  color: rgb(10, 192, 125);
+}
+.customGreen {
+  background: rgb(10, 192, 125);
+}
 </style>

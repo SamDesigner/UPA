@@ -19,7 +19,7 @@
                             </div>
                             <h1 class="text-lg">Waste-to-Energy</h1>
                             <p class="leading-[28px] text-[16px] font-[400]">
-                               Through cutting-edge texhnology, we harness the untapped potential of waste to generate clean and renewable energy, addressing both environmental and energy challenges 
+                               Through cutting-edge technology, we harness the untapped potential of waste to generate clean and renewable energy, addressing both environmental and energy challenges 
                             </p>
                         </div>
                         <!-- <div 
