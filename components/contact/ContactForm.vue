@@ -88,34 +88,34 @@
                             
                         </div>
                         <div class="flex justify-center">
-                            <a href="mailto:hello@upaenergy.org" class="text-center w-full md:w-[343px] bg-primary text-white rounded-[1000px] py-[14px] px-[32px]">Send Message</a>
+                          <button
+                            @click="sendEmail"
+                            class="w-full md:w-[343px] bg-primary text-white rounded-[1000px] py-[14px] px-[32px]">
+                            Send Message
+                          </button>
                         </div>
-                    
+                      </div>
                     </div>
-                    
+                  </div>
                 </div>
-
-        </div>
-      </div>
-    </div>
-
-</template>
-
+              </div>
+            </template>
+            
 <script>
 export default {
   methods: {
-    generateMailtoLink() {
+    sendEmail() {
       const subject = encodeURIComponent("Message from Your Website");
       const body = encodeURIComponent(this.getMessageBody());
-      const email = "recipient@example.com"; // replace with your recipient's email address
-      return `mailto:${email}?subject=${subject}&body=${body}`;
+      const recipientEmail = "hellop@upaenergy"; // replace with your recipient's email address
+      window.location.href = `mailto:${recipientEmail}?subject=${subject}&body=${body}`;
     },
     getMessageBody() {
-      const firstName = this.$refs.firstName.value || "";
-      const lastName = this.$refs.lastName.value || "";
+      const firstName = this.$refs.firstName?.value || "";
+      const lastName = this.$refs.lastName?.value || "";
       // ... extract other form field values ...
-      const subject = this.$refs.subject.value || "";
-      const message = this.$refs.message.value || "";
+      const subject = this.$refs.subject?.value || "";
+      const message = this.$refs.message?.value || "";
 
       return `First Name: ${firstName}\nLast Name: ${lastName}\nSubject: ${subject}\nMessage: ${message}`;
     },
