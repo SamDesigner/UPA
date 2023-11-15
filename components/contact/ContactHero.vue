@@ -31,7 +31,7 @@
 
 
                                     <p class="leading-[30px] text-[14px] text-darkGreen">Schedule a Call With Us</p>
-                                    <p class="underline text-[400] leading-[30px]"><a href="tel:+23480033471271">+234 80033471271</a></p>
+                                    <p class="underline text-[400] leading-[30px]"><a href="tel:+23480033471271">+234 803 347 1271</a></p>
                                     <p class="underline text-[400] leading-[30px]"><a href="tel:+23480033471271">+234 09-2904317</a></p> 
 
                                 </div>
@@ -75,7 +75,7 @@
 
 
                                     <p class="leading-[30px] text-[14px] text-darkGreen">Schedule a Call With Us</p>
-                                    <p class="underline text-[400] leading-[30px]"><a href="tel:+23480033471271">+234 80033471271</a></p>
+                                    <p class="underline text-[400] leading-[30px]"><a href="tel:+23480033471271">+234 803 347 1271</a></p>
                                     <p class="underline text-[400] leading-[30px]"><a href="tel:+23480033471271">+234 09-2904317</a></p> 
 
                                 </div>
