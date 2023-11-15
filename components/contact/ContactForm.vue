@@ -15,8 +15,8 @@
               <p class="text-[16px] leading-[28px] font-[400] text-darkGreen">
                 Send us your details in the form below, and a member of our team
                 will call you as soon as possible. If you’d like to speak to us
-                straight away, call{" "}
-                <span class="text-primary">+234 80033471271. 09-2904317</span>{" "}
+                straight away, call
+                <span class="text-primary">+234 80033471271. 09-2904317</span>
                 We’re available seven days a week.
               </p>
             </div>
@@ -46,7 +46,7 @@
                             <div class="flex flex-col md:flex-row gap-[20px]">
                                 <div class="flex flex-col gap-[4px] w-full">
                                     <label class="text-[16px] font-[500] leading-[24px] text-darkGreen">Name</label>
-                                    <input placeholder="John"  class="border border-inputGray text-[16px] font-[400] rounded-[8px] py-[16px] px-[24px]" />
+                                    <input ref = "name" placeholder="John"  class="border border-inputGray text-[16px] font-[400] rounded-[8px] py-[16px] px-[24px]" />
                                 </div>
                    
                             </div>
@@ -56,7 +56,7 @@
                                     <label class="text-[16px] font-[500] leading-[24px] text-darkGreen">Phone number</label>
                                     <div class="border border-inputGray flex items-center gap-[4px] px-[24px] rounded-[8px]">
                              
-                                        <input  placeholder="+1 (555) 000-000" class="outline-none text-[16px]   font-[400] w-full  py-[16px] " />
+                                        <input ref = "phoneNumber" placeholder="+1 (555) 000-000" class="outline-none text-[16px]   font-[400] w-full  py-[16px] " />
                                     </div>
                                     
                                 </div>
@@ -64,20 +64,20 @@
                             <div>
                                 <div class="flex flex-col gap-[4px]">
                                     <label class="text-[16px] font-[500] leading-[24px] text-darkGreen">Email Address</label>
-                                    <input placeholder="you@company.com"  class="border border-inputGray text-[16px] font-[400] rounded-[8px] py-[16px] px-[24px]" />
+                                    <input ref = "email" placeholder="you@company.com"  class="border border-inputGray text-[16px] font-[400] rounded-[8px] py-[16px] px-[24px]" />
                                 </div>
                             </div>
                             <div>
                                 <div class="flex flex-col gap-[4px]">
                                     <label class="text-[16px] font-[500] leading-[24px] text-darkGreen">Subject</label>
-                                    <input placeholder="Subject" class="border border-inputGray text-[16px] font-[400] rounded-[8px] py-[16px] px-[24px]" />
+                                    <input ref = "subject" placeholder="Subject" class="border border-inputGray text-[16px] font-[400] rounded-[8px] py-[16px] px-[24px]" />
                                 </div>
                             </div>
                             <div>
                                 <div class="flex flex-col gap-[4px] ">
                                     <label class="text-[16px] font-[500] leading-[24px] text-darkGreen">Message</label>
 
-                                    <textarea  id="w3review" name="w3review" rows="4"  placeholder="Leave us a message" class="h-[134px] text-black border border-inputGray text-[16px] rounded-[8px] py-[16px] px-[24px] ">
+                                    <textarea  ref = "message" id="w3review" name="w3review" rows="4"  placeholder="Leave us a message" class="h-[134px] text-black border border-inputGray text-[16px] rounded-[8px] py-[16px] px-[24px] ">
                                     
                                     </textarea>
 
@@ -105,19 +105,18 @@
 export default {
   methods: {
     sendEmail() {
-      const subject = encodeURIComponent("Message from Your Website");
+      const subject = encodeURIComponent("Message from UPA Website");
       const body = encodeURIComponent(this.getMessageBody());
       const recipientEmail = "hellop@upaenergy"; // replace with your recipient's email address
       window.location.href = `mailto:${recipientEmail}?subject=${subject}&body=${body}`;
     },
     getMessageBody() {
-      const firstName = this.$refs.firstName?.value || "";
-      const lastName = this.$refs.lastName?.value || "";
-      // ... extract other form field values ...
+      const firstName = this.$refs.name?.value || "";
+      const phoneNumber = this.$refs.phoneNumber?.value || "";
       const subject = this.$refs.subject?.value || "";
       const message = this.$refs.message?.value || "";
 
-      return `First Name: ${firstName}\nLast Name: ${lastName}\nSubject: ${subject}\nMessage: ${message}`;
+      return `Name: ${name}\nPhone Number: ${phoneNumber}\nSubject: ${subject}\nMessage: ${message}`;
     },
   },
 };
