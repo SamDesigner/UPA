@@ -111,7 +111,7 @@ export default {
       window.location.href = `mailto:${recipientEmail}?subject=${subject}&body=${body}`;
     },
     getMessageBody() {
-      const firstName = this.$refs.name?.value || "";
+      const name = this.$refs.name?.value || "";
       const phoneNumber = this.$refs.phoneNumber?.value || "";
       const subject = this.$refs.subject?.value || "";
       const message = this.$refs.message?.value || "";
