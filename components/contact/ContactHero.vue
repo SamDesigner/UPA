@@ -72,8 +72,12 @@
                                 </div>
                                 <div>
                                     <h3 class="text-[16px] leading-[32px] font-[600] text-darkGreen">Telephone</h3>
-                                    <p class="leading-[30px] text-[14px] text-darkGreen">Schedule a call with us</p>
-                                    <p class="underline text-[400] leading-[30px] text-primary"><a href="tel:+23480033471271">+234 80033471271. 09-2904317</a></p>
+
+
+                                    <p class="leading-[30px] text-[14px] text-darkGreen">Schedule a Call With Us</p>
+                                    <p class="underline text-[400] leading-[30px]"><a href="tel:+23480033471271">+234 80033471271</a></p>
+                                    <p class="underline text-[400] leading-[30px]"><a href="tel:+23480033471271">+234 09-2904317</a></p> 
+
                                 </div>
                              
                             </div>
