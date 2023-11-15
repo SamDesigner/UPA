@@ -42,31 +42,19 @@
                         
                         class="flex flex-col gap-[20px]">
                             <div class="flex flex-col md:flex-row gap-[20px]">
-                                <div class="flex flex-col gap-[4px] md:w-1/2">
-                                    <label class="text-[16px] font-[500] leading-[24px] text-darkGreen">First Name</label>
+                                <div class="flex flex-col gap-[4px] w-full">
+                                    <label class="text-[16px] font-[500] leading-[24px] text-darkGreen">Name</label>
                                     <input placeholder="John"  class="border border-inputGray text-[16px] font-[400] rounded-[8px] py-[16px] px-[24px]" />
                                 </div>
-                                <div class="flex flex-col gap-[4px] md:w-1/2">
-                                    <label class="text-[16px] font-[500] leading-[24px] text-darkGreen">Last Name</label>
-                                    <input placeholder="Doe" class="border border-inputGray text-[16px] font-[400] rounded-[8px] py-[16px] px-[24px]" />
-                                </div>
+                   
                             </div>
-                            <div>
-                                <div class="flex flex-col gap-[4px]">
-                                    <label class="text-[16px] font-[500] leading-[24px] text-darkGreen">Company Name</label>
-                                    <input placeholder="john doe internationals" class="border border-inputGray text-[16px] font-[400] rounded-[8px] py-[16px] px-[24px]" />
-                                </div>
-                            </div>
+
                             <div>
                                 <div class="flex flex-col gap-[4px]">
                                     <label class="text-[16px] font-[500] leading-[24px] text-darkGreen">Phone number</label>
                                     <div class="border border-inputGray flex items-center gap-[4px] px-[24px] rounded-[8px]">
-                                        <div>
-                                                <select class="text-darkGreen" >
-                                                <option><i class="pi pi-chevron-down"></i></option>
-                                                </select>
-                                        </div>
-                                        <input placeholder="+1 (555) 000-000" class="outline-none text-[16px]   font-[400] w-full  py-[16px] " />
+                             
+                                        <input  placeholder="+1 (555) 000-000" class="outline-none text-[16px]   font-[400] w-full  py-[16px] " />
                                     </div>
                                     
                                 </div>
@@ -87,7 +75,7 @@
                                 <div class="flex flex-col gap-[4px] ">
                                     <label class="text-[16px] font-[500] leading-[24px] text-darkGreen">Message</label>
 
-                                    <textarea id="w3review" name="w3review" rows="4"  placeholder="Leave us a message" class="h-[134px] text-black border border-inputGray text-[16px] rounded-[8px] py-[16px] px-[24px] ">
+                                    <textarea  id="w3review" name="w3review" rows="4"  placeholder="Leave us a message" class="h-[134px] text-black border border-inputGray text-[16px] rounded-[8px] py-[16px] px-[24px] ">
                                     
                                     </textarea>
 
@@ -98,7 +86,7 @@
                             
                         </div>
                         <div class="flex justify-center">
-                            <button class="w-full md:w-[343px] bg-primary text-white rounded-[1000px] py-[14px] px-[32px]">Send Message</button>
+                            <a href="mailto:hello@upaenergy.org" class="text-center w-full md:w-[343px] bg-primary text-white rounded-[1000px] py-[14px] px-[32px]">Send Message</a>
                         </div>
                     
                     </div>
