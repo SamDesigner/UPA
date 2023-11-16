@@ -49,9 +49,9 @@
                         <img class="overflow-hidden rounded-tr-xl rounded-tl-xl w-full h-full fit_img" src="/img/pic3.jpg" />
                     </div>
                     <div class="py-[10px] bg-white px-[10px] flex flex-col gap-[5px]">
-                        <h3 class="text-black text-lg font-[400] text-primary">Solar Bulbs</h3>
+                        <h3 class="text-black text-lg font-[400] text-primary">Installations</h3>
                         <div class="border w-[30px] border-b-darkYellow"></div>
-                        <p class="text-[14px]">Experience our high-quality solar bulbs, providing reliable illumination for up to 52 hours without any interruptions.</p>
+                        <p class="text-[14px]">Get professional installations for your energy solutions, ensuring optimal performance for your systems.</p>
                     </div>
                 </div>
             
@@ -82,20 +82,9 @@
                         <img class="overflow-hidden rounded-tr-xl rounded-tl-xl w-full h-full fit_img" src="/img/pic3.jpg" />
                     </div>
                     <div class="py-[10px] bg-white px-[10px] flex flex-col gap-[5px]">
-                        <h3 class="text-black text-lg font-[400] text-primary">Solar Smoke Machine</h3>
+                        <h3 class="text-black text-lg font-[400] text-primary">Maintenance</h3>
                         <div class="border w-[30px] border-b-darkYellow"></div>
-                        <p class="text-[14px]">Enhance your shows with our solar smoke machine, adding excitement and entertainment to your events.</p>
-                    </div>
-                </div>
-            
-                <div class="">
-                    <div class="h-[300px] w-full">
-                        <img class="overflow-hidden rounded-tr-xl rounded-tl-xl w-full h-full fit_img" src="/img/pic3.jpg" />
-                    </div>
-                    <div class="py-[10px] bg-white px-[10px] flex flex-col gap-[5px]">
-                        <h3 class="text-black text-lg font-[400] text-primary">Installations</h3>
-                        <div class="border w-[30px] border-b-darkYellow"></div>
-                        <p class="text-[14px]">Get professional installations for your energy solutions, ensuring optimal performance for your systems.</p>
+                        <p class="text-[14px]">Engineered for longevity, UPA Energy's maintenance service ensures your solar infrastructure operates at peak performance. Our proactive approach, coupled with diagnostics, guarantees minimal downtime. Elevate your solar investment with UPA Energy Maintenance – where reliability meets innovation.</p>
                     </div>
                 </div>
             </div>
